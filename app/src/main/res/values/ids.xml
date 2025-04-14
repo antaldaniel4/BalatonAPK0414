@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/values/ids.xml -->
+<resources>
+    <item name="dot_tapolca" type="id" />
+    <item name="dot_zamardi" type="id" />
+    <item name="dot_fured" type="id" />
+    <item name="dot_keszthely" type="id" />
+    <item name="dot_sumeg" type="id" />
+    <item name="dot_veszprem" type="id" />
+    <item name="dot_nadasl" type="id" />
+    <item name="dot_lelle" type="id" />
+
+</resources>

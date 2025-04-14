@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "248524859428",
+    "project_id": "balaton-e8226",
+    "storage_bucket": "balaton-e8226.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248524859428:android:5772869feacbf9e1e1d0b1",
+        "android_client_info": {
+          "package_name": "com.example.balaton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248524859428-83tg5t9qvagfiietovi07or0uhj2jfkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3qAmMfoff5oyu6tGo4_aF7I1lEV7CQJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248524859428-83tg5t9qvagfiietovi07or0uhj2jfkr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
