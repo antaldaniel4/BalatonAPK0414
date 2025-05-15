@@ -1,18 +1,27 @@
 package com.example.balaton;
 
-import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.MenuItem;
 import android.view.View;
+import android.widget.Toast;
+import androidx.annotation.NonNull;
+import androidx.appcompat.app.AppCompatActivity;
 import android.widget.FrameLayout;
 import android.widget.ImageView;
-import android.widget.Toast;
+
+import androidx.coordinatorlayout.widget.CoordinatorLayout;
+import androidx.drawerlayout.widget.DrawerLayout;
+import com.google.android.material.appbar.MaterialToolbar;
+import com.google.android.material.navigation.NavigationView;
 
 public class MapActivity extends AppCompatActivity {
 
-    private ImageView mapImage;
-    private FrameLayout mapRootLayout;
+    private DrawerLayout drawerLayout;
+    private NavigationView navigationView;
+    private MaterialToolbar topAppBar;
 
-    private static final String LOG_TAG = "MapActivity";
+    private ImageView mapImage;
+    private CoordinatorLayout mapRootLayout;
 
     // xRatio, yRatio, name
     Object[][] dotData = {
@@ -26,13 +35,53 @@ public class MapActivity extends AppCompatActivity {
             {0.17f, 0.41f, "Balatonlelle"}
     };
 
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_map);
 
+        drawerLayout = findViewById(R.id.drawer_layout);
+        navigationView = findViewById(R.id.navigationView);
+        topAppBar = findViewById(R.id.material_toolbar);
+
+        // Hamburger ikon megnyitja a drawert
+        topAppBar.setNavigationOnClickListener(v -> drawerLayout.open());
+
+        // Menüelemek kezelése
+        topAppBar.setOnMenuItemClickListener(item -> {
+            if (item.getItemId() == R.id.action_search) {
+                Toast.makeText(this, "Keresés", Toast.LENGTH_SHORT).show();
+                return true;
+            }
+            return false;
+        });
+
+        // Drawer menüelemek kezelése
+        navigationView.setNavigationItemSelectedListener(new NavigationView.OnNavigationItemSelectedListener() {
+            @Override
+            public boolean onNavigationItemSelected(@NonNull MenuItem item) {
+                drawerLayout.closeDrawers();
+                int id = item.getItemId();
+
+                if (id == R.id.nav_home) {
+                    Toast.makeText(MapActivity.this, "Kezdőlap", Toast.LENGTH_SHORT).show();
+                    return true;
+                } else if (id == R.id.nav_profile) {
+                    Toast.makeText(MapActivity.this, "Profil", Toast.LENGTH_SHORT).show();
+                    return true;
+                } else if (id == R.id.nav_logout) {
+                    Toast.makeText(MapActivity.this, "Kijelentkezés", Toast.LENGTH_SHORT).show();
+                    return true;
+                }
+
+                return false;
+            }
+        });
+
         mapImage = findViewById(R.id.mapImage);
-        mapRootLayout = findViewById(R.id.mapRootLayout);
+        mapRootLayout = findViewById(R.id.layout);
 
         mapImage.post(() -> {
             int imageWidth = mapImage.getWidth();
@@ -57,9 +106,10 @@ public class MapActivity extends AppCompatActivity {
                 mapRootLayout.addView(dotView, params);
             }
         });
+
     }
 
-    public void onDotClick(View view) {
+    private void onDotClick(View view) {
         String message = (String) view.getTag(); // lekérjük a nevet
         Toast.makeText(this, message, Toast.LENGTH_SHORT).show();
     }
