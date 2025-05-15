@@ -1,5 +1,6 @@
 package com.example.balaton;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.MenuItem;
 import android.view.View;
@@ -73,6 +74,15 @@ public class MapActivity extends AppCompatActivity {
                     return true;
                 } else if (id == R.id.nav_logout) {
                     Toast.makeText(MapActivity.this, "Kijelentkezés", Toast.LENGTH_SHORT).show();
+                    return true;
+                }
+                else if (id == R.id.nav_latnivalok) {
+                    Intent intent = new Intent(MapActivity.this, LatnivaloActivity.class);
+                    startActivity(intent);
+                    return true;
+                }else if (id == R.id.nav_rolam) {
+                    Intent intent = new Intent(MapActivity.this, RolamActivity.class);
+                    startActivity(intent);
                     return true;
                 }
 

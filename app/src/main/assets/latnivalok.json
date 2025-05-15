@@ -1,0 +1,482 @@
+[
+  {
+    "Név": "Balatonfüredi Tagore sétány",
+    "Város": "Balatonfüred",
+    "Cím": "8230 Balatonfüred, Tagore sétány",
+    "Kategória": [
+      "Természeti",
+      "Szabadidő"
+    ],
+    "Leírás": "A Balaton partján húzódó hangulatos sétány híres emberek emléktábláival, szobrokkal és gyönyörű virágokkal."
+  },
+  {
+    "Név": "Szigligeti vár",
+    "Város": "Szigliget",
+    "Cím": "8264 Szigliget, Várhegy",
+    "Kategória": [
+      "Kulturális",
+      "Történelmi"
+    ],
+    "Leírás": "Egy középkori várrom lenyűgöző panorámával a Balatonra és a környező tájra."
+  },
+  {
+    "Név": "Keszthelyi Festetics-kastély",
+    "Város": "Keszthely",
+    "Cím": "8360 Keszthely, Kastély utca 1.",
+    "Kategória": [
+      "Kulturális",
+      "Történelmi"
+    ],
+    "Leírás": "Magyarország egyik legnagyobb és legszebb barokk kastélya, gyönyörű parkkal és múzeumokkal."
+  },
+  {
+    "Név": "Hévízi-tó",
+    "Város": "Hévíz",
+    "Cím": "8380 Hévíz, Schulhof Vilmos sétány",
+    "Kategória": [
+      "Természeti",
+      "Gyógyturizmus"
+    ],
+    "Leírás": "A világ legnagyobb természetes termáltava, melynek gyógyvíze és iszapja híres."
+  },
+  {
+    "Név": "Badacsony",
+    "Város": "Badacsonytomaj",
+    "Cím": "8261 Badacsonytomaj és környéke",
+    "Kategória": [
+      "Természeti",
+      "Gasztronómia"
+    ],
+    "Leírás": "Egy vulkanikus hegy jellegzetes bazaltorgonákkal, híres borászatokkal és gyönyörű kilátással."
+  },
+  {
+    "Név": "Tapolcai Tavasbarlang",
+    "Város": "Tapolca",
+    "Cím": "8300 Tapolca, Kisfaludy Sándor utca 3.",
+    "Kategória": [
+      "Természeti",
+      "Kaland"
+    ],
+    "Leírás": "Egy különleges barlangrendszer csónakázható földalatti tóval."
+  },
+  {
+    "Név": "Kis-Balaton",
+    "Város": "Balatonmagyaród és környéke",
+    "Cím": "-",
+    "Kategória": [
+      "Természeti",
+      "Madármegfigyelés"
+    ],
+    "Leírás": "Egy védett vizes élőhely gazdag madárvilággal, ideális a természetkedvelőknek."
+  },
+  {
+    "Név": "Balatonboglári Gömbkilátó",
+    "Város": "Balatonboglár",
+    "Cím": "8630 Balatonboglár, Várdomb",
+    "Kategória": [
+      "Szabadidő",
+      "Kilátó"
+    ],
+    "Leírás": "Egy különleges formájú kilátó, ahonnan csodálatos panoráma nyílik a Balatonra."
+  },
+  {
+    "Név": "Zamárdi Kalandpark",
+    "Város": "Zamárdi",
+    "Cím": "8621 Zamárdi, Kiss Ernő utca",
+    "Kategória": [
+      "Szabadidő",
+      "Kaland"
+    ],
+    "Leírás": "Különböző nehézségű akadálypályák és csúszópályák a fákon."
+  },
+  {
+    "Név": "Balatoni Múzeum",
+    "Város": "Keszthely",
+    "Cím": "8360 Keszthely, Múzeum utca 2.",
+    "Kategória": [
+      "Kulturális",
+      "Történelmi"
+    ],
+    "Leírás": "A Balaton történetét, élővilágát és kultúráját bemutató múzeum."
+  },
+  {
+    "Név": "Afrika Múzeum",
+    "Város": "Balatonederics",
+    "Cím": "8253 Balatonederics, Kültelek 4.",
+    "Kategória": [
+      "Kulturális",
+      "Természeti"
+    ],
+    "Leírás": "Afrika élővilágát és kultúráját bemutató múzeum és állatkert."
+  },
+  {
+    "Név": "Salföldi Major",
+    "Város": "Salföld",
+    "Cím": "8256 Salföld, Major",
+    "Kategória": [
+      "Kulturális",
+      "Hagyományőrző"
+    ],
+    "Leírás": "Egy régi magyar tanya épületegyüttese háziállatokkal és bemutatókkal."
+  },
+  {
+    "Név": "Balatonföldvári Hajózástörténeti Látogatóközpont",
+    "Város": "Balatonföldvár",
+    "Cím": "8623 Balatonföldvár, Kvassay sétány 2.",
+    "Kategória": [
+      "Kulturális",
+      "Történelmi"
+    ],
+    "Leírás": "A balatoni hajózás történetét bemutató interaktív kiállítás."
+  },
+  {
+    "Név": "Csopaki Strand",
+    "Város": "Csopak",
+    "Cím": "8229 Csopak, Örkény István sétány",
+    "Kategória": [
+      "Szabadidő",
+      "Strand"
+    ],
+    "Leírás": "Népszerű strand homokos és füves területekkel, vízi sportolási lehetőségekkel."
+  },
+  {
+    "Név": "Balatonakali Strand",
+    "Város": "Balatonakali",
+    "Cím": "8243 Balatonakali, Strand utca",
+    "Kategória": [
+      "Szabadidő",
+      "Strand"
+    ],
+    "Leírás": "Családbarát strand játszótérrel és árnyékos területekkel."
+  },
+  {
+    "Név": "Révfülöpi Sétány és Móló",
+    "Város": "Révfülöp",
+    "Cím": "8253 Révfülöp, Halász utca",
+    "Kategória": [
+      "Szabadidő",
+      "Természeti"
+    ],
+    "Leírás": "Hangulatos sétány a Balaton partján kilátással a tóra és a hegyekre."
+  },
+  {
+    "Név": "Balatonlellei Gömbkilátó",
+    "Város": "Balatonlelle",
+    "Cím": "8638 Balatonlelle, Kishegy",
+    "Kategória": [
+      "Szabadidő",
+      "Kilátó"
+    ],
+    "Leírás": "Egy kisebb gömbkilátó szép panorámával a Balaton déli partjára."
+  },
+  {
+    "Név": "Csisztafürdő",
+    "Város": "Buzsák",
+    "Cím": "8695 Buzsák-Csisztafürdő",
+    "Kategória": [
+      "Természeti",
+      "Gyógyturizmus"
+    ],
+    "Leírás": "Egy termálfürdő a Kis-Balaton közelében, nyugodt környezetben."
+  },
+  {
+    "Név": "Vonyarcvashegyi Szent Mihály-kápolna",
+    "Város": "Vonyarcvashegy",
+    "Cím": "8314 Vonyarcvashegy, Kápolna domb",
+    "Kategória": [
+      "Kulturális",
+      "Vallási"
+    ],
+    "Leírás": "Egy barokk kápolna gyönyörű kilátással a Balatonra."
+  },
+  {
+    "Név": "Balatonedericsi Csodabogyós-barlang",
+    "Város": "Balatonederics",
+    "Cím": "8253 Balatonederics, Barlang utca",
+    "Kategória": [
+      "Természeti",
+      "Kaland"
+    ],
+    "Leírás": "Egy cseppkőbarlang érdekes formációkkal."
+  },
+  {
+    "Név": "Szántódpuszta",
+    "Város": "Szántód",
+    "Cím": "8622 Szántód, Puszta",
+    "Kategória": [
+      "Kulturális",
+      "Hagyományőrző"
+    ],
+    "Leírás": "Egy felújított majorság épületegyüttese múzeummal és lovasbemutatókkal."
+  },
+  {
+    "Név": "Tihanyi Levendula Ház Látogatóközpont",
+    "Város": "Tihany",
+    "Cím": "8237 Tihany, Major utca 67.",
+    "Kategória": [
+      "Kulturális",
+      "Természeti"
+    ],
+    "Leírás": "A tihanyi levendula-termesztés történetét bemutató központ."
+  },
+  {
+    "Név": "Balatonvilágosi Magaspart",
+    "Város": "Balatonvilágos",
+    "Cím": "8171 Balatonvilágos, Szabadság utca",
+    "Kategória": [
+      "Természeti",
+      "Kilátó"
+    ],
+    "Leírás": "Lenyűgöző kilátás a Balaton keleti medencéjére a magaspartról."
+  },
+  {
+    "Név": "Folly Arborétum",
+    "Város": "Badacsonytomaj",
+    "Cím": "8256 Badacsonytomaj, Kápolna-domb 1.",
+    "Kategória": [
+      "Természeti",
+      "Botanikus kert"
+    ],
+    "Leírás": "Ritka és különleges növények gyűjteménye gyönyörű környezetben."
+  },
+  {
+    "Név": "Balatonföldvári Kilátó",
+    "Város": "Balatonföldvár",
+    "Cím": "8623 Balatonföldvár, Kelta sétány",
+    "Kategória": [
+      "Szabadidő",
+      "Kilátó"
+    ],
+    "Leírás": "Egy modern kilátótorony ahonnan körpanoráma nyílik a Balatonra."
+  },
+  {
+    "Név": "Alsóörsi Csopakhegyi Kilátó",
+    "Város": "Alsóörs",
+    "Cím": "8226 Alsóörs, Csopakhegy",
+    "Kategória": [
+      "Szabadidő",
+      "Kilátó"
+    ],
+    "Leírás": "Szép kilátás a Balatonra és a környező hegyekre."
+  },
+  {
+    "Név": "Sümegi vár",
+    "Város": "Sümeg",
+    "Cím": "8330 Sümeg, Várhegy",
+    "Kategória": [
+      "Kulturális",
+      "Történelmi"
+    ],
+    "Leírás": "Egy jól megőrzött középkori vár lovagi tornákkal és más programokkal."
+  },
+  {
+    "Név": "Zirczi Ciszterci Apátság",
+    "Város": "Zirc",
+    "Cím": "8420 Zirc, Rákóczi tér 1.",
+    "Kategória": [
+      "Kulturális",
+      "Vallási"
+    ],
+    "Leírás": "Egy gyönyörű barokk apátság múzeummal és arborétummal (bár nem közvetlenül a Balatonnál van, de könnyen elérhető)."
+  },
+  {
+    "Név": "Herendi Porcelánmanufaktúra",
+    "Város": "Herend",
+    "Cím": "8440 Herend, Kossuth Lajos utca 140.",
+    "Kategória": [
+      "Kulturális",
+      "Ipari örökség"
+    ],
+    "Leírás": "A híres magyar porcelán manufaktúra látogatóközponttal és múzeummal (nem közvetlenül a Balatonnál, de népszerű kirándulóhely)."
+  },
+  {
+    "Név": "Balatonudvari Strand",
+    "Város": "Balatonudvari",
+    "Cím": "8242 Balatonudvari, Strand utca",
+    "Kategória": [
+      "Szabadidő",
+      "Strand"
+    ],
+    "Leírás": "Hangulatos strand a Balaton északi partján."
+  },
+  {
+    "Név": "Örvényesi Strand",
+    "Város": "Örvényes",
+    "Cím": "8242 Örvényes, Kossuth Lajos utca",
+    "Kategória": [
+      "Szabadidő",
+      "Strand"
+    ],
+    "Leírás": "Kis, de annál hangulatosabb strand a Tihanyi-félsziget közelében."
+  },
+  {
+    "Név": "Balatonfűzfői Bobpálya",
+    "Város": "Balatonfűzfő",
+    "Cím": "8175 Balatonfűzfő, Uszoda utca",
+    "Kategória": [
+      "Szabadidő",
+      "Kaland"
+    ],
+    "Leírás": "Izgalmas bobpálya a lejtőn lefelé."
+  },
+  {
+    "Név": "Kristálytorony Kalandpark",
+    "Város": "Zamárdi",
+    "Cím": "8621 Zamárdi, Kiss Ernő utca (a Kalandpark területén)",
+    "Kategória": [
+      "Szabadidő",
+      "Kaland"
+    ],
+    "Leírás": "Többszintes kötélpályarendszer."
+  },
+  {
+    "Név": "Balaton Színház",
+    "Város": "Keszthely",
+    "Cím": "8360 Keszthely, Fő tér 3.",
+    "Kategória": [
+      "Kulturális",
+      "Szórakozás"
+    ],
+    "Leírás": "Színházi előadások és más kulturális programok helyszíne."
+  },
+  {
+    "Név": "Veszprémi Állatkert",
+    "Város": "Veszprém",
+    "Cím": "8200 Veszprém, Kittenberger Kálmán utca 17.",
+    "Kategória": [
+      "Természeti",
+      "Állatkert"
+    ],
+    "Leírás": "Számos állatfajnak otthont adó állatkert (nem közvetlenül a Balatonnál, de népszerű családi program)."
+  },
+  {
+    "Név": "Szent György-hegy bazaltorgonái",
+    "Város": "Raposka",
+    "Cím": "8275 Raposka",
+    "Kategória": [
+      "Természeti",
+      "Geológiai"
+    ],
+    "Leírás": "Lenyűgöző bazaltoszlopok a Szent György-hegyen."
+  },
+  {
+    "Név": "Kővágóörsi Strand",
+    "Város": "Kővágóörs",
+    "Cím": "8254 Kővágóörs, Strand utca",
+    "Kategória": [
+      "Szabadidő",
+      "Strand"
+    ],
+    "Leírás": "Nyugodt strand a Balaton északi partján."
+  },
+  {
+    "Név": "Mindszentkálla Köveskál közötti Kőtenger",
+    "Város": "Mindszentkálla és Köveskál között",
+    "Cím": "-",
+    "Kategória": [
+      "Természeti",
+      "Geológiai"
+    ],
+    "Leírás": "Jellegzetes sziklaképződmények a Káli-medencében."
+  },
+  {
+    "Név": "Badacsonytördemici Strand",
+    "Város": "Badacsonytördemic",
+    "Cím": "8263 Badacsonytördemic, Strand utca",
+    "Kategória": [
+      "Szabadidő",
+      "Strand"
+    ],
+    "Leírás": "Családbarát strand a Badacsony lábánál."
+  },
+  {
+    "Név": "Balatonberényi Strand",
+    "Város": "Balatonberény",
+    "Cím": "8649 Balatonberény, Kossuth Lajos utca",
+    "Kategória": [
+      "Szabadidő",
+      "Strand"
+    ],
+    "Leírás": "Nagy kiterjedésű strand sok lehetőséggel."
+  },
+  {
+    "Név": "Fonyódi Kikötő",
+    "Város": "Fonyód",
+    "Cím": "8640 Fonyód, Vitorlás utca",
+    "Kategória": [
+      "Szabadidő",
+      "Közlekedés"
+    ],
+    "Leírás": "A Balaton déli partjának egyik fontos kikötője."
+  },
+  {
+    "Név": "Balatonfenyvesi Kisvasút",
+    "Város": "Balatonfenyves",
+    "Cím": "8646 Balatonfenyves, József Attila utca",
+    "Kategória": [
+      "Szabadidő",
+      "Közlekedés"
+    ],
+    "Leírás": "Hangulatos kisvasút a Balaton déli partján."
+  },
+  {
+    "Név": "Zalaszántói Béke Sztúpa",
+    "Város": "Zalaszántó",
+    "Cím": "8784 Zalaszántó, Keszthelyi út",
+    "Kategória": [
+      "Kulturális",
+      "Vallási"
+    ],
+    "Leírás": "Magyarország legnagyobb buddhista sztúpája (nem közvetlenül a Balatonnál, de érdekes látnivaló a közelben)."
+  },
+  {
+    "Név": "Rezi vár",
+    "Város": "Rezi",
+    "Cím": "8373 Rezi, Várhegy",
+    "Kategória": [
+      "Kulturális",
+      "Történelmi"
+    ],
+    "Leírás": "Egy középkori várrom szép kilátással."
+  },
+  {
+    "Név": "Gyenesdiási Játékstrand",
+    "Város": "Gyenesdiás",
+    "Cím": "8315 Gyenesdiás, Strand utca",
+    "Kategória": [
+      "Szabadidő",
+      "Strand"
+    ],
+    "Leírás": "Családbarát strand sok játékkal és animációs programmal."
+  },
+  {
+    "Név": "Balatonmáriafürdői Csillagvár",
+    "Város": "Balatonmáriafürdő",
+    "Cím": "8647 Balatonmáriafürdő, Gróf Széchenyi Imre utca 6.",
+    "Kategória": [
+      "Kulturális",
+      "Szabadidő"
+    ],
+    "Leírás": "Egy fából épült \"vár\" különböző programokkal."
+  },
+  {
+    "Név": "Balatonőszödi Strand",
+    "Város": "Balatonőszöd",
+    "Cím": "8637 Balatonőszöd, Strand utca",
+    "Kategória": [
+      "Szabadidő",
+      "Strand"
+    ],
+    "Leírás": "Nyugodt strand a déli parton."
+  },
+  {
+    "Név": "Balatonszárszói József Attila Emlékház",
+    "Város": "Balatonszárszó",
+    "Cím": "8624 Balatonszárszó, József Attila utca 7.",
+    "Kategória": [
+      "Kulturális",
+      "Történelmi"
+    ],
+    "Leírás": "A költő egykori nyaralója, ma emlékmúzeum."
+  }
+]

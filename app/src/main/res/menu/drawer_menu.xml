@@ -8,4 +8,10 @@
     <item android:id="@+id/nav_logout"
         android:title="Kijelentkezés"
         android:icon="@drawable/ic_logout"/>
+    <item android:id="@+id/nav_latnivalok"
+        android:title="Latnivalók"
+        android:icon="@drawable/ic_latnivalok"/>
+    <item android:id="@+id/nav_rolam"
+        android:title="Rólam"
+        android:icon="@drawable/ic_rolam"/>
 </menu>
